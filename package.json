@@ -48,7 +48,7 @@
     "eslint-plugin-prettier": "^5.2.6",
     "globals": "^16.0.0",
     "jest": "^30.0.5",
-    "jest-environment-node": "^29.7.0",
+    "jest-environment-node": "^30.0.5",
     "jest-extended": "^6.0.0",
     "mongodb-runner": "^5.8.2",
     "openapi-types": "^12.1.3",
